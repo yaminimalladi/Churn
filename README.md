@@ -11,6 +11,14 @@ The goal is to:
 The key business question addressed in this project is:
 - Which customers are likely to churn, and what factors contribute most to customer churn?
 
+Tools & Technologies Used
+- Power BI – Data visualization & dashboarding
+- Python – Data preprocessing & machine learning
+- Pandas & NumPy – Data manipulation
+- Scikit-learn – Random Forest classification model
+- Matplotlib & Seaborn – Model interpretation & visualization
+- Excel (.xlsm) – Data storage & ML output
+
 Results & Insights
 - Customers with shorter tenure are more likely to churn
 - Month-to-month contracts have significantly higher churn rates
